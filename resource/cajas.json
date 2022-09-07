@@ -1,0 +1,6 @@
+[
+    {"codigo": 1, "importe": 100, "valores": [500,300,200], "comprobantes": [{"id":1,"tipo":"I","importe":1000}] },
+    {"codigo": 2, "importe": 200, "valores": [500,300,200],"comprobantes": [{"id":1,"tipo":"I","importe":1000}] },
+    {"codigo": 3, "importe": 1000, "valores": [500,300,200], "comprobantes": [{"id":1,"tipo":"I","importe":1000}] },
+    {"codigo": 4, "importe": 500, "valores": [500,300,100],"comprobantes": [{"id":1,"tipo":"I","importe":1000}] }
+]
