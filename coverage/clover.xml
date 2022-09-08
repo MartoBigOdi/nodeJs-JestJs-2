@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1662606946684" clover="3.2.0">
-  <project timestamp="1662606946685" name="All files">
-    <metrics statements="20" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="9" elements="30" coveredelements="25" complexity="0" loc="20" ncloc="20" packages="2" files="3" classes="3"/>
+<coverage generated="1662643404177" clover="3.2.0">
+  <project timestamp="1662643404177" name="All files">
+    <metrics statements="20" coveredstatements="20" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="10" elements="30" coveredelements="30" complexity="0" loc="20" ncloc="20" packages="2" files="3" classes="3"/>
     <package name="models">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <file name="Caja.js" path="C:\Users\marti\OneDrive\Escritorio\Null\Facu\TP2\clases\ejercicio-practica-clase4\src\models\Caja.js">
         <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
-        <line num="4" count="5" type="stmt"/>
-        <line num="5" count="5" type="stmt"/>
-        <line num="6" count="5" type="stmt"/>
-        <line num="7" count="5" type="stmt"/>
-        <line num="11" count="15" type="stmt"/>
-        <line num="15" count="5" type="stmt"/>
+        <line num="4" count="13" type="stmt"/>
+        <line num="5" count="13" type="stmt"/>
+        <line num="6" count="13" type="stmt"/>
+        <line num="7" count="13" type="stmt"/>
+        <line num="11" count="39" type="stmt"/>
+        <line num="15" count="13" type="stmt"/>
       </file>
     </package>
     <package name="service">
-      <metrics statements="14" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="5"/>
+      <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
       <file name="CajaProceso.js" path="C:\Users\marti\OneDrive\Escritorio\Null\Facu\TP2\clases\ejercicio-practica-clase4\src\service\CajaProceso.js">
         <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
-        <line num="4" count="1" type="stmt"/>
-        <line num="7" count="1" type="stmt"/>
-        <line num="11" count="1" type="stmt"/>
-        <line num="13" count="4" type="stmt"/>
-        <line num="14" count="4" type="stmt"/>
-        <line num="17" count="1" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="13" count="12" type="stmt"/>
+        <line num="14" count="12" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
       </file>
       <file name="FileUtil.js" path="C:\Users\marti\OneDrive\Escritorio\Null\Facu\TP2\clases\ejercicio-practica-clase4\src\service\FileUtil.js">
-        <metrics statements="8" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
-        <line num="6" count="2" type="stmt"/>
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="6" count="4" type="stmt"/>
         <line num="10" count="2" type="stmt"/>
         <line num="11" count="2" type="stmt"/>
         <line num="13" count="1" type="stmt"/>
-        <line num="18" count="0" type="stmt"/>
-        <line num="19" count="0" type="stmt"/>
-        <line num="20" count="0" type="stmt"/>
-        <line num="22" count="0" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
       </file>
     </package>
   </project>
