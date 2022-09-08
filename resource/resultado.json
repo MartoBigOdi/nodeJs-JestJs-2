@@ -1,0 +1,18 @@
+[
+    {
+        "codigo": 4,
+        "importe": 500,
+        "valores": [
+            500,
+            300,
+            100
+        ],
+        "comprobantes": [
+            {
+                "id": 1,
+                "tipo": "I",
+                "importe": 1000
+            }
+        ]
+    }
+]

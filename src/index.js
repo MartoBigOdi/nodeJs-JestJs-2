@@ -14,8 +14,6 @@ const prueba = cajaProceso.verificarCaja();
 
 fileUtil.escribir(prueba, './resource/resultado.json')
 
-// resultadoUtil.escribir(prueba, '../resource/resultado.json')
-
 
 console.log("*********************** Caja con diferencia ***********************")
 
